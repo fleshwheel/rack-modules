@@ -1,0 +1,47 @@
+{
+  "slug": "fleshwheel",
+  "name": "fleshwheel",
+  "version": "2.0.0",
+  "license": "GPL-2.0-only",
+  "brand": "fleshwheel",
+  "author": "fleshwheel",
+  "authorEmail": "fleshwheel@protonmail.com",
+  "authorUrl": "https://fleshwheel.com",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "Integrator",
+      "name": "Integrator",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "Multiplier",
+      "name": "Multiplier",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "Oscillator",
+      "name": "Oscillator",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "Dot",
+      "name": "Dot",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "Magnitude",
+      "name": "Magnitude",
+      "description": "",
+      "tags": []
+    }
+  ]
+}
